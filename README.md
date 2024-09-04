@@ -17,4 +17,4 @@ This application is a distributed system consisting of two main components:
 
 ### Client-Server Communication
 
-- **WebSockets**: The client and server communicate in real-time using WebSockets, ensuring a responsive and interactive user experience.
+- **WebSockets**: The client and server communicate in real-time using WebSockets.
